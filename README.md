@@ -9,7 +9,7 @@ This is a custom-designed nutrition label built with HTML & CSS, inspired by rea
 - Clean, readable layout
 
 ## Live Preview:
-👉 [See it on GitHub Pages](https://naomisetyaningsih.github.io/naomi-nutrition-facts-ui)
+👉(https://naomisetyaningsih.github.io/Nutrition-Facts-Mockup/)
 
 ## Author
 👩 Naomi Setyaningsih  
